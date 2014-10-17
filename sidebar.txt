@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ndw:home|Door43 (ndw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ndw|d43-ndw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ndw/archive/master.zip|d43-ndw.zip]]
+
+**Recent Changes**
+{{changes>ns = ndw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ndw|Ethnologue data]]
+
